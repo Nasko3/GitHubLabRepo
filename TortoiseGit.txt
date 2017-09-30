@@ -2,9 +2,4 @@ Test from Browser
 
 
 
-<<<<<<< HEAD
 Add 3 lines
-=======
-
-Add new 5 lines
->>>>>>> 41dc9844613c2e5867bf73238286674869398888
